@@ -1,0 +1,11 @@
+{
+  "name": "college-app",
+  "version": "0.0.1",
+  "description": "College reminder app backend",
+  "main": "server.js",
+  "repository": "",
+  "author": "Ritvik Mandyam <ritvik.mandyam@gmail.com>",
+  "dependencies": {
+    "express": "~3.2.4"
+  }
+}
